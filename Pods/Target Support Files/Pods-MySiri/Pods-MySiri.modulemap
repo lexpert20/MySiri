@@ -1,0 +1,6 @@
+framework module Pods_MySiri {
+  umbrella header "Pods-MySiri-umbrella.h"
+
+  export *
+  module * { export * }
+}

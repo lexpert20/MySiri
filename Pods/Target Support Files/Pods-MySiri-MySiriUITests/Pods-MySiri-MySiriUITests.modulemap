@@ -1,0 +1,6 @@
+framework module Pods_MySiri_MySiriUITests {
+  umbrella header "Pods-MySiri-MySiriUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
